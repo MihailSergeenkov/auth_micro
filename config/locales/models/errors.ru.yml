@@ -1,0 +1,16 @@
+ru:
+  models:
+    errors:
+      user:
+        name:
+          blank: Укажите название
+          format: Неверный формат названия
+        email:
+          blank: Укажите email
+        password_digest:
+          blank: Укажите пароль
+      user_session:
+        uuid:
+          blank: Укажите uuid
+        user_id:
+          blank: Укажите пользователя

@@ -1,0 +1,6 @@
+- name: Vasya
+  email: vasya@test.ru
+  password: 12345678
+- name: Poma
+  email: roma@test.ru
+  password: 12345678
